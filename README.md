@@ -3,8 +3,13 @@ Toolkits for WeChat Emoticons Display in Web Applications.
 Web应用中显示微信经典表情的工具包
 
 ---------
+![WeChat Emoticons](https://github.com/qiuyinghua/wechat-emoticons/blob/master/wechat-emoticons.png?raw=true)
 
-**icon size	60x60**
+
+**icon size	60x60**  
+**space between cells 2px**
+
+Emoticon texts below
 
 |  IMAGE X/Y  |  0  |  62  |  124  |  186  |  248  |  310  |  372  |  434  |  496  |  558  |  620  |
 | ----------- | ---- | ---- | ----- | ---- | ----- | ---- | ----- | ----- | ----- | ------- | ----- |
