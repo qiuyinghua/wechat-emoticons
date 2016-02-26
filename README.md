@@ -1,12 +1,13 @@
 # wechat-emoticons
-Toolkits for WeChat Emoticons Display in Web Applications.  
+
+Toolkits for WeChat Emoticons Display in Web Applications.
 Web应用中显示微信经典表情的工具包
 
 ---------
 ![WeChat Emoticons](https://github.com/qiuyinghua/wechat-emoticons/blob/master/wechat-emoticons.png?raw=true)
 
 
-**icon size	60x60**  
+**icon size 60x60**
 **space between cells 2px**
 
 Emoticon Translations below
@@ -39,4 +40,7 @@ Simplified Chinese
 | 372 | [爱心] | [心碎] | [蛋糕] | [闪电] | [炸弹] | [刀] | [足球] | [瓢虫] | [便便] | [月亮] | [太阳] |
 | 434 | [礼物] | [拥抱] | [强] | [弱] | [握手] | [胜利] | [抱拳] | [勾引] | [拳头] | [差劲] | [爱你] |
 | 496 | [NO] | [OK] | [爱情] | [飞吻] | [跳跳] | [发抖] | [怄火] | [转圈] | [磕头] | [回头] | [跳绳] |
-| 558 | [投降] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  | 
+| 558 | [投降] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  |
+
+### License
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
