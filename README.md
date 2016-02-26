@@ -1,7 +1,21 @@
 # wechat-emoticons
 
-Toolkits for WeChat Emoticons Display in Web Applications.
-Web应用中显示微信经典表情的工具包
+**Toolkits for WeChat Emoticons Display in Web Applications.**
+
+This inlcude all 100 classic WeChat Smiley faces on mobile devices.  Beside that it also include the extra 5 WeChat Emoji face which can only be sent by WeChat Web Version and WeChat Desktop Versions (Mac & PC).
+
+This project only include the faces specific to WeChat.  And most of the emoticons are also used as QQ emoticons (another popular IM application invented by Tencent decades ago).  
+
+BTW: This project doesn't include the universal emoji emoticons.  If you're also interested in them, please refer to project [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com/) or [www.iemoji.com](http://www.iemoji.com/emoji-cheat-sheet/all) for a complete list of the emoji emoticons and code.
+
+
+**Web应用中显示微信表情的工具包.**
+
+本项目包括100个经典的在手机端使用的微信表情。同时也包含额外5个仅可使用网页端和桌面应用发送的微信表情。
+
+我们仅在本项目中包含了所有腾讯微信特有的笑脸符号，其中大部分同时也在QQ中作为QQ表情使用。（注：QQ是十几年前腾讯公司创造的一款流行的即时通信软件）
+
+特别声明：本项目并不包括系统标准的emoji表情。如果你对标准emoji表情感兴趣，可以参考[emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com/) or [www.iemoji.com](http://www.iemoji.com/emoji-cheat-sheet/all) 获得完整的emoji表情清单和其代码。
 
 ---------
 ![WeChat Emoticons](https://github.com/qiuyinghua/wechat-emoticons/blob/master/wechat-emoticons.png?raw=true)
