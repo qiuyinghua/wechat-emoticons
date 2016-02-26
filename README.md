@@ -9,7 +9,24 @@ Web应用中显示微信经典表情的工具包
 **icon size	60x60**  
 **space between cells 2px**
 
-Emoticon texts below
+Emoticon Translations below
+
+English
+
+|  IMAGE X/Y  |  0  |  62  |  124  |  186  |  248  |  310  |  372  |  434  |  496  |  558  |  620  |
+| ----------- | ---- | ---- | ----- | ---- | ----- | ---- | ----- | ----- | ----- | ------- | ----- |
+| 0 | [Smile] | [Grimance] | [Drool] | [Scowl] | [CoolGuy] | [Sob] | [Shy] | [Silent] | [Sleep] | [Cry] | [Awkward] |
+| 62 | [Angry] | [Tongue] | [Grin] | [Surprise] | [Frown] | [Ruthless] | [Blush] | [Scream] | [Puke] | [Chuckle] | [Joyful] |
+| 124 | [Slight] | [Smug] | [Hungry] | [Drowsy] | [Panic] | [Sweat] | [Laugh] | [Commando] | [Determined] | [Scold] | [Shocked] |
+| 186 | [Shhh] | [Dizzy] | [Tormented] | [Toasted] | [Skull] | [Hammer] | [Wave] | [Speechless] | [NosePick] | [Clap] | [Shame] |
+| 248 | [Trick] | [Bah! L] | [Bah! R] | [Yawn] | [Pooh-pooh] | [Shrunken] | [TearingUp] | [Sly] | [Kiss] | [Wrath] | [Whimper] |
+| 310 | [Cleaver] | [Watermelon] | [Beer] | [Basketball] | [PingPong] | [Coffee] | [Rice] | [Pig] | [Rose] | [Wilt] | [Lips] |
+| 372 | [Heart] | [BrokenHeart] | [Cake] | [Lightning] | [Bomb] | [Dagger] | [Soccer] | [Ladybug] | [Poop] | [Moon] | [Sun] |
+| 434 | [Gift] | [Hug] | [ThumbsUp] | [ThumbsDown] | [Shake] | [Peace] | [Fight] | [Beckon] | [Fist] | [Pinky] | [RockOn] |
+| 496 | [Nuh-uh] | [OK] | [InLove] | [Blowkiss] | [Waddle] | [Tremble] | [Aaagh!] | [Twirl] | [Kotow] | [Dramatic] | [JumpRope] |
+| 558 | [Surrender] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  | 
+
+Simplified Chinese
 
 |  IMAGE X/Y  |  0  |  62  |  124  |  186  |  248  |  310  |  372  |  434  |  496  |  558  |  620  |
 | ----------- | ---- | ---- | ----- | ---- | ----- | ---- | ----- | ----- | ----- | ------- | ----- |
