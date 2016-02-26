@@ -1,6 +1,6 @@
 # wechat-emoticons
 
-**Toolkits for WeChat Emoticons Display in Web Applications.**
+**WeChat Emoticons Kit (Multilingual Parser & Image Resources) for webapp. All 100 classic WeChat Smiley included plus extra 5 WeChat Emoji face via Web and Desktop App. Only Faces specific to WeChat included, most emoticons also are QQ emoticons**
 
 This inlcude all 100 classic WeChat Smiley faces on mobile devices.  Beside that it also include the extra 5 WeChat Emoji face which can only be sent by WeChat Web Version and WeChat Desktop Versions (Mac & PC).
 
@@ -9,7 +9,7 @@ This project only include the faces specific to WeChat.  And most of the emotico
 BTW: This project doesn't include the universal emoji emoticons.  If you're also interested in them, please refer to project [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com/) or [www.iemoji.com](http://www.iemoji.com/emoji-cheat-sheet/all) for a complete list of the emoji emoticons and code.
 
 
-**Web应用中显示微信表情的工具包.**
+**微信表情笑脸工具包（含100+5个经典表情解析器和图片资源）用于Web应用**
 
 本项目包括100个经典的在手机端使用的微信表情。同时也包含额外5个仅可使用网页端和桌面应用发送的微信表情。
 
