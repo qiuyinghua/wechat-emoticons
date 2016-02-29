@@ -4,7 +4,7 @@
 
 This inlcude all 100 classic WeChat Smiley faces on mobile devices.  Beside that it also include the extra 5 WeChat Emoji face which can only be sent by WeChat Web Version and WeChat Desktop Versions (Mac & PC).
 
-This project only include the faces specific to WeChat.  And most of the emoticons are also used as QQ emoticons (another popular IM application invented by Tencent decades ago).  
+This project only include the faces specific to WeChat.  And most of the emoticons are also used as QQ emoticons (another popular IM application invented by Tencent decades ago).
 
 BTW: This project doesn't include the universal emoji emoticons.  If you're also interested in them, please refer to project [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com/) or [www.iemoji.com](http://www.iemoji.com/emoji-cheat-sheet/all) for a complete list of the emoji emoticons and code.
 
@@ -39,7 +39,7 @@ English
 | 372 | [Heart] | [BrokenHeart] | [Cake] | [Lightning] | [Bomb] | [Dagger] | [Soccer] | [Ladybug] | [Poop] | [Moon] | [Sun] |
 | 434 | [Gift] | [Hug] | [ThumbsUp] | [ThumbsDown] | [Shake] | [Peace] | [Fight] | [Beckon] | [Fist] | [Pinky] | [RockOn] |
 | 496 | [Nuh-uh] | [OK] | [InLove] | [Blowkiss] | [Waddle] | [Tremble] | [Aaagh!] | [Twirl] | [Kotow] | [Dramatic] | [JumpRope] |
-| 558 | [Surrender] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  | 
+| 558 | [Surrender] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  |
 
 Simplified Chinese
 
@@ -55,6 +55,10 @@ Simplified Chinese
 | 434 | [礼物] | [拥抱] | [强] | [弱] | [握手] | [胜利] | [抱拳] | [勾引] | [拳头] | [差劲] | [爱你] |
 | 496 | [NO] | [OK] | [爱情] | [飞吻] | [跳跳] | [发抖] | [怄火] | [转圈] | [磕头] | [回头] | [跳绳] |
 | 558 | [投降] | [Hooray] | [Meditate] | [Smooch] | [TaiChi L] | [TaiChi R] |  |  |  |  |
+
+### scripts
+
+* [png-to-base64](scripts/png-to-base64.js) convert png to base64
 
 ### License
 [GNU GENERAL PUBLIC LICENSE](LICENSE)
